@@ -1,5 +1,5 @@
-Anagram Game
-============
+Daily Quiz
+==========
 The Daily Quiz Game is a simple quiz - it asks you questions from a number of topics and saves your score. Each day the questions are randomly chosen from a pool (quiz-questions.txt).
 
 This web application uses PHP, AJAX (JQuery), and MySQL. The Docker image contains everything necessary to run the application, including an Apache web server.
