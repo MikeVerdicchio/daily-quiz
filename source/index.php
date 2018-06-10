@@ -203,13 +203,13 @@
 		echo 'alert("You have already taken the quiz today. Please return tomorrow to take another.")';
 		echo '</script>';
 	?>
-		<head>
-   		 <title>Daily Quiz Game</title>
+	<head>
+		<title>Daily Quiz Game</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 	</head>
-<?php	} ?>
+<?php } ?>
 	
 <body>
     <div class="container">
