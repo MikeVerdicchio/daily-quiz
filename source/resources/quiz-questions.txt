@@ -1,0 +1,9 @@
+UVA History~When was the University of Virginia founded?~1815^Incorrect|1817^Incorrect|1819^Correct|1825^Incorrect
+UVA History~Who was the founder of the University of Virginia?~George Washington^Incorrect|Thomas Jefferson^Correct|James Madison^Incorrrect|John Adams^Incorrect
+UVA History~Where did the founder of UVA go to college?~College of William and Mary^Correct|University of Virginia^Incorrect|Virginia Tech^Incorrect|Harvard University^Incorrect
+UVA History~How many Pavilions are there in the Academical Village?~1^Incorrect|5^Incorrect|10^Correct|20^Incorrect
+Harry Potter~On what day did James and Lily Potter get murdered?~October 31, 1980^Incorrect|October 31, 1981^Correct|December 25, 1981^Incorrect|January 1, 1982^Incorrect
+Harry Potter~On what birthday did Harry learn that he was a wizard?~10^Incorrect|11^Correct|12^Incorrect|13^Incorrect
+Computers~How many bits are in a byte?~2^Incorrect|4^Incorrect|8^Correct|42^Incorrect
+Computers~Who invented the Internet?~Tim Berners Lee^Correct|Larry Page^Incorrect|Linus Torvalds^Incorrect|Al Gore^Incorrect
+Computers~What was the first electronic message sent between two computers?~LOGIN^Incorrect|HELLO WORLD^Incorrect|UVA^Incorrect|LO^Correct
